@@ -1,0 +1,118 @@
+2022-09-09 16:44:43,302 [MainThread] INFO: setting language to: en_US
+2022-09-09 16:44:45,677 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-09-09 16:44:45,677 [Dummy-1] INFO: loading system: English Stenotype
+2022-09-09 16:44:47,507 [Dummy-1] INFO: setting machine: Keyboard
+2022-09-09 16:44:47,764 [Dummy-1] WARNING: the following registry key has been updated, you should reboot: HKEY_CURRENT_USER\Control Panel\Desktop\LowLevelHooksTimeout
+2022-09-09 16:44:51,514 [Dummy-1] INFO: recreating c:\users\crrhe\appdata\local\plover\plover\user.json from asset:plover:assets\user.json
+2022-09-09 16:44:51,514 [Dummy-1] INFO: recreating c:\users\crrhe\appdata\local\plover\plover\commands.json from asset:plover:assets\commands.json
+2022-09-09 16:44:51,605 [Dummy-1] INFO: recreating c:\users\crrhe\appdata\local\plover\plover\main.json from asset:plover:assets\main.json
+2022-09-09 16:44:51,788 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-09-09 16:44:51,818 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-09-09 16:44:51,839 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-09-09 16:44:55,158 [Dummy-1] INFO: loaded 3 dictionaries in 3.370s
+2022-09-11 19:12:05,062 [MainThread] INFO: setting language to: en_US
+2022-09-11 19:12:16,074 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-09-11 19:12:16,074 [Dummy-1] INFO: loading system: English Stenotype
+2022-09-11 19:12:17,433 [Dummy-1] INFO: setting machine: Keyboard
+2022-09-11 19:12:19,604 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-09-11 19:12:19,612 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-09-11 19:12:19,614 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-09-11 19:12:22,597 [Dummy-1] INFO: loaded 3 dictionaries in 2.993s
+2022-09-12 05:26:01,780 [MainThread] INFO: setting language to: en_US
+2022-09-12 05:26:04,318 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-09-12 05:26:04,318 [Dummy-1] INFO: loading system: English Stenotype
+2022-09-12 05:26:05,741 [Dummy-1] INFO: setting machine: Keyboard
+2022-09-12 05:26:07,127 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-09-12 05:26:07,129 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-09-12 05:26:07,129 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-09-12 05:26:09,674 [Dummy-1] INFO: loaded 3 dictionaries in 2.547s
+2022-09-13 18:30:03,269 [MainThread] INFO: setting language to: en_US
+2022-09-13 18:30:06,706 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-09-13 18:30:06,706 [Dummy-1] INFO: loading system: English Stenotype
+2022-09-13 18:30:07,946 [Dummy-1] INFO: setting machine: Keyboard
+2022-09-13 18:30:10,921 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-09-13 18:30:10,992 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-09-13 18:30:11,040 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-09-13 18:30:13,639 [Dummy-1] INFO: loaded 3 dictionaries in 2.718s
+2022-09-16 11:14:00,191 [MainThread] INFO: setting language to: en_US
+2022-09-16 11:14:02,409 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-09-16 11:14:02,409 [Dummy-1] INFO: loading system: English Stenotype
+2022-09-16 11:14:03,078 [Dummy-1] INFO: setting machine: Keyboard
+2022-09-16 11:14:04,245 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-09-16 11:14:04,261 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-09-16 11:14:04,261 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-09-16 11:14:07,480 [Dummy-1] INFO: loaded 3 dictionaries in 3.234s
+2022-09-20 06:36:22,624 [MainThread] INFO: setting language to: en_US
+2022-09-20 06:36:25,021 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-09-20 06:36:25,021 [Dummy-1] INFO: loading system: English Stenotype
+2022-09-20 06:36:25,680 [Dummy-1] INFO: setting machine: Keyboard
+2022-09-20 06:36:26,637 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-09-20 06:36:26,637 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-09-20 06:36:26,637 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-09-20 06:36:28,393 [Dummy-1] INFO: loaded 3 dictionaries in 1.756s
+2022-09-20 20:41:28,414 [MainThread] INFO: setting language to: en_US
+2022-09-20 20:41:30,383 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-09-20 20:41:30,383 [Dummy-1] INFO: loading system: English Stenotype
+2022-09-20 20:41:31,313 [Dummy-1] INFO: setting machine: Keyboard
+2022-09-20 20:41:32,743 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-09-20 20:41:32,743 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-09-20 20:41:32,743 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-09-20 20:41:34,723 [Dummy-1] INFO: loaded 3 dictionaries in 1.980s
+2022-09-22 20:49:16,292 [MainThread] INFO: setting language to: en_US
+2022-09-22 20:49:18,692 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-09-22 20:49:18,692 [Dummy-1] INFO: loading system: English Stenotype
+2022-09-22 20:49:19,412 [Dummy-1] INFO: setting machine: Keyboard
+2022-09-22 20:49:20,482 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-09-22 20:49:20,492 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-09-22 20:49:20,492 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-09-22 20:49:22,352 [Dummy-1] INFO: loaded 3 dictionaries in 1.870s
+2022-10-07 21:59:53,287 [MainThread] INFO: setting language to: en_US
+2022-10-07 21:59:56,084 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-10-07 21:59:56,084 [Dummy-1] INFO: loading system: English Stenotype
+2022-10-07 21:59:56,756 [Dummy-1] INFO: setting machine: Keyboard
+2022-10-07 21:59:57,802 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-10-07 21:59:57,802 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-10-07 21:59:57,802 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-10-07 21:59:59,709 [Dummy-1] INFO: loaded 3 dictionaries in 1.906s
+2022-10-08 22:29:08,804 [MainThread] INFO: setting language to: en_US
+2022-10-08 22:29:11,976 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-10-08 22:29:11,976 [Dummy-1] INFO: loading system: English Stenotype
+2022-10-08 22:29:13,304 [Dummy-1] INFO: setting machine: Keyboard
+2022-10-08 22:29:16,444 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-10-08 22:29:16,444 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-10-08 22:29:16,460 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-10-08 22:29:20,170 [Dummy-1] INFO: loaded 3 dictionaries in 3.725s
+2022-10-09 14:35:08,443 [MainThread] INFO: setting language to: en_US
+2022-10-09 14:35:09,814 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-10-09 14:35:09,814 [Dummy-1] INFO: loading system: English Stenotype
+2022-10-09 14:35:10,547 [Dummy-1] INFO: setting machine: Keyboard
+2022-10-09 14:35:11,465 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-10-09 14:35:11,465 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-10-09 14:35:11,465 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-10-09 14:35:13,419 [Dummy-1] INFO: loaded 3 dictionaries in 1.954s
+2022-10-10 20:43:29,995 [MainThread] INFO: setting language to: en_US
+2022-10-10 20:43:32,308 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-10-10 20:43:32,308 [Dummy-1] INFO: loading system: English Stenotype
+2022-10-10 20:43:33,026 [Dummy-1] INFO: setting machine: Keyboard
+2022-10-10 20:43:34,104 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-10-10 20:43:34,120 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-10-10 20:43:34,120 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-10-10 20:43:36,112 [Dummy-1] INFO: loaded 3 dictionaries in 2.008s
+2022-10-10 20:59:40,167 [ThreadPoolExecutor-279_0] INFO: error fetching https://www.wordtechnologies.com/images/treal/treal2a.gif: Not Found
+2022-10-10 21:00:52,532 [MainThread] INFO: setting language to: en_US
+2022-10-10 21:00:54,011 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-10-10 21:00:54,011 [Dummy-1] INFO: loading system: English Stenotype
+2022-10-10 21:00:54,636 [Dummy-1] INFO: setting machine: Keyboard
+2022-10-10 21:00:55,574 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-10-10 21:00:55,574 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-10-10 21:00:55,574 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-10-10 21:00:57,292 [Dummy-1] INFO: loaded 3 dictionaries in 1.719s
+2022-10-10 21:01:59,600 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2022-10-11 07:27:23,107 [MainThread] INFO: setting language to: en_US
+2022-10-11 07:27:28,265 [Dummy-1] INFO: set_stroke_filename(C:\Users\crrhe\AppData\Local\plover\plover\strokes.log)
+2022-10-11 07:27:28,269 [Dummy-1] INFO: loading system: English Stenotype
+2022-10-11 07:27:31,802 [Dummy-1] INFO: setting machine: Keyboard
+2022-10-11 07:27:37,332 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\user.json
+2022-10-11 07:27:37,520 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\commands.json
+2022-10-11 07:27:37,588 [Dummy-1] INFO: loading dictionary: c:\users\crrhe\appdata\local\plover\plover\main.json
+2022-10-11 07:27:46,828 [Dummy-1] INFO: loaded 3 dictionaries in 9.497s
