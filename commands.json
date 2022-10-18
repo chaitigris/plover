@@ -1,6 +1,7 @@
 {
 "/TPHOURDZ": "In your own words",
 "/KPWA": "{^^}",
+"/KW-Z": "?",
 "/W-D": "would",
 "STPH-R": "{#Left}{^}",
 "STPH-RB": "{#Control_L(Left)}{^}",
@@ -68,6 +69,7 @@
 "WHUS": "When you see",
 "WHUZ": "When you say",
 "WALZ": "walls",
+"W*EUFL": "wishful",
 "HRARPLZ": "alarms",
 "H-F": "-",
 "R*R": "{#Return}{^}",
@@ -75,6 +77,7 @@
 "AOUTS": "United States",
 "A*EPBLG": "<",
 "AEPBLG": ">",
+"APBD": "addition",
 "*UPD": "{*<}",
 "EUPB": "I know"
 }
