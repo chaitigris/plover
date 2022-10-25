@@ -1,4 +1,6 @@
 {
+"/#E": "5",
+"/SPERBL": "specially",
 "/SRER": "very",
 "/TPHOURDZ": "In your own words",
 "/T-PBS": "continues",
@@ -81,6 +83,7 @@
 "PHAOEUP": "May I approach",
 "PHAOEP": "May we approach",
 "PHAT/-L": "material",
+"PERT": "petitioner",
 "WHURS": "Would you raise your right hand",
 "WHUS": "When you see",
 "WHUZ": "When you say",
@@ -90,6 +93,7 @@
 "WEUTSZ": "witnesses",
 "HRARPLZ": "alarms",
 "H-F": "-",
+"R*EPD": "respondent",
 "R*R": "{#Return}{^}",
 "REBGD": "record",
 "R-R": "{^~|\n^}",
@@ -99,5 +103,6 @@
 "APBD": "addition",
 "*UPD": "{*<}",
 "EUPB": "I know",
+"ELZ": "Elizabeth",
 "-BGS": "action"
 }
