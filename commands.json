@@ -46,5 +46,13 @@
 "A*EPBLG": "<",
 "AEPBLG": ">",
 "*UPD": "{*<}",
-
+"STPH*FPL": "{;}",
+"STPH*FPLT": "{;}",
+"STPH*FPLTS": "{^)}",
+"STPH-FPLT": "{:}",
+"STPH-FPLTS": "{(^}",
+"STPH-R": "{#Left}{^}",
+"STPH-RB": "{#Control_L(Left)}{^}",
+"STPH-P": "{#Up}{^}",
+"STP-FPLT": "{:}",
 }
