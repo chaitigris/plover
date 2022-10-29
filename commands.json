@@ -54,5 +54,5 @@
 "STPH-R": "{#Left}{^}",
 "STPH-RB": "{#Control_L(Left)}{^}",
 "STPH-P": "{#Up}{^}",
-"STP-FPLT": "{:}",
+"STP-FPLT": "{:}"
 }

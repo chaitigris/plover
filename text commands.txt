@@ -1,0 +1,31 @@
+﻿PHROLG # # TOGGLE 
+PHRAOP  # #  LOOK UP
+TKUPT  # # ADD TRANSLATION
+/ oeu 
+sp  space 
+$ tk pl
+--  tk rb 
+- h pb 
+~  t*ld 
+* sta*r 
+%  pers* 
++  plus*
+@ kwrat
+[ pwr bgt 
+] pwr bgt*
+( prepb 
+) prepb*
+...  skwr rbgs 
+'-  ae 
+-'  ae* 
+!  skhra
+:  stph fplt
+;  skwr*rbgs 
+| pao*eup 
+<  aepblg* 
+>   aepblg
+&  sp pbd 
+r-r  enter
+Letter-by-letter backspace: PW-FP
+Do not insert a space before the next word, and don't capitalize the next word:  kpwa 
+Do not insert a space before the next word, and capitalize the next word: KPA*
